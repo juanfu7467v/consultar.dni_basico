@@ -27,7 +27,7 @@ const API_BASE_URL = process.env.API_BASE_URL || "https://imagen-v2.fly.dev";
 const PRIMARY_API_URL = process.env.PRIMARY_API_URL || "https://banckend-poxyv1-cosultape-masitaprex.fly.dev/reniec";
 
 const APP_ICON_URL = "https://www.socialcreator.com/srv/imgs/gen/79554_icohome.png";
-const APP_QR_URL = "https://www.socialcreator.com/consultapeapk#apps";
+const APP_QR_URL = "https://www.masitaprex.com";
 
 // Función para generar marcas de agua
 const generarMarcaDeAgua = async (imagen) => {
